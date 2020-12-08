@@ -1,1 +1,1 @@
-print('Я домашкаdawddasdawdasdazdwad')
+print('Я домашка1')
